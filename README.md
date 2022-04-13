@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-dash-a42a7518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-dash-a42a7518b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-dash-a42a7518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-dash-a42a7518b/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sleepy_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sleepy_aryan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sleepyaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sleepyaryan" height="30" width="40" /></a>
 </p>
