@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any Full-Stack Dev project**
 
-- 👨‍💻 All of my projects are available at [https://sleepyaryan.netlify.app/](https://sleepyaryan.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://aryan.buzz](http://aryan.buzz)
 
 - 📝 I regularly write articles on [Coming Soon](Coming Soon)
 
